@@ -1,0 +1,2 @@
+g++ main.cpp Room.cpp Hotel.cpp Guest.cpp SingleRoom.cpp DoubleRoom.cpp SuiteRoom.cpp Employee.cpp -o HotelApp.exe
+ chcp 65001; .\HotelApp.exe
